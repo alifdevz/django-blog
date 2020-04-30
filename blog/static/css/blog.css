@@ -20,7 +20,7 @@ h1 a, h2 a {
 }
 
 .content-container {
-    margin-left: 15px;
+    margin-left: 25px;
 }
 
 h1, h2, h3, h4 {
@@ -28,9 +28,10 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #0C4B33;
+    width: fit-content;
+    height: 20px;
     float: right;
-    width: 350px;
 }
 
 .save {
